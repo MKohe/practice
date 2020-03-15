@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+section {
+  background-color: blue;
+}
+
+.c-section {
+  background-color: green;
+  margin : 20px;
+}
+
+.c-section.-second {
+  margin-top: 10px;
+  border: 10px solid #000;
+}
+
+.c-section.-second p {
+  display: inline;
+}
+
